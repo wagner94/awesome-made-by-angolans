@@ -1,4 +1,5 @@
-# awesome-made-by-angolans
+# :angola: Awesome Made by Angolans [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 
 > A collection of projects built by angolans developers
 >
@@ -7,6 +8,7 @@
 [![license](https://img.shields.io/github/license/wagner94/awesome-made-by-angolans.svg)](/LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/wagner94/awesome-made-by-angolans.svg)](https://github.com/wagner94/awesome-made-by-angolans/graphs/contributors)
 
+- [Angolans Youtubers](#youtubers)
 - [Apps, Softwares & Tools](#apps)
 - [Awesomes & Lists](#awesomes)
 - [C](#c)
@@ -26,3 +28,16 @@
 - [Shell](#shell)
 - [Typescript](#typescript)
 - [vim](#vim)
+
+<a name="youtubers"></a>
+### Youtubers
+- **[Geek4Geeks](https://www.youtube.com/channel/UC8ybWnHq4ZNu6MPdv0-GecQ)** by [Geek4Geeks](https://github.com/geek4geekz)  
+  This youtube channel is about programming 
+  ![Stars](https://img.shields.io/github/stars/geek4geekz/geek4geekz?style=flat-square)
+
+
+
+<a name="apps"></a>
+
+### Apps, Softwares & Tools
+
