@@ -63,7 +63,7 @@ If you want to add a project to this list, please make sure that:
 - If they meet the requirements above, feel free to create a PR!
 
 ## Thanks
-- [🇷🇺 awesome-made-by-russians](https://github.com/gaearon/awesome-made-by-russians) For days I was thinking about the idea of bringing together Angolan communities, open source projects, startups, universities and so on, so I thought about making it real. I was inspired by the Brazilian and Russian templates.
+- [🇷🇺 awesome-made-by-russians](https://github.com/gaearon/awesome-made-by-russians) For days I was thinking about the idea of bringing together Angolan communities, open source projects, startups, universities and so on, so I thought about making it real. I was inspired by Brazilian and Russian templates.
 
 ## License
 
