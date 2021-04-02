@@ -1,4 +1,4 @@
-# :angola: Awesome Made by Angolans [![Awesome](https://awesome.re/badge.svg)]
+# :angola: Awesome Made by Angolans ![Awesome](https://awesome.re/badge.svg)
 
 
 > A collection of projects built by angolan developers
