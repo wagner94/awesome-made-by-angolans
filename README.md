@@ -19,6 +19,7 @@
 - [Python](#python)
 - [Ruby](#ruby)
 - [Typescript](#typescript)
+- [Flutter](#flutter)
 
 
 <a name="youtubers"></a>
